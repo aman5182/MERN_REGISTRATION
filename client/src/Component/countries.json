@@ -1,0 +1,70 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "states": [
+          {
+            "name": "California",
+            "cities": ["Los Angeles", "San Francisco", "San Diego"]
+          },
+          {
+            "name": "Texas",
+            "cities": ["Houston", "Dallas", "Austin"]
+          }
+        ]
+      },
+      {
+        "name": "Canada",
+        "states": [
+          {
+            "name": "Ontario",
+            "cities": ["Toronto", "Ottawa", "Mississauga"]
+          },
+          {
+            "name": "Quebec",
+            "cities": ["Montreal", "Quebec City", "Laval"]
+          }
+        ]
+      },
+      {
+        "name": "India",
+        "states": [
+          {
+            "name": "Maharashtra",
+            "cities": ["Mumbai", "Pune", "Nagpur"]
+          },
+          {
+            "name": "Karnataka",
+            "cities": ["Bangalore", "Mysore", "Hubli"]
+          }
+        ]
+      },
+      {
+        "name": "United Kingdom",
+        "states": [
+          {
+            "name": "England",
+            "cities": ["London", "Manchester", "Birmingham"]
+          },
+          {
+            "name": "Scotland",
+            "cities": ["Glasgow", "Edinburgh", "Aberdeen"]
+          }
+        ]
+      },
+      {
+        "name": "Australia",
+        "states": [
+          {
+            "name": "New South Wales",
+            "cities": ["Sydney", "Newcastle", "Wollongong"]
+          },
+          {
+            "name": "Victoria",
+            "cities": ["Melbourne", "Geelong", "Ballarat"]
+          }
+        ]
+      }
+    ]
+  }
+  
